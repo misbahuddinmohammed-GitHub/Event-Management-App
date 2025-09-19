@@ -1,4 +1,5 @@
 # Event-Management-App
+
 Spring Boot RESTful Event Management System
 
 This project is a backend application developed using Spring Boot, designed by following RESTful architecture. It manages event-related data with entities such as Event, Venue, Organizer, Registration, and Attendee. The application provides full CRUD operations along with pagination, sorting, and custom queries for advanced data handling.
